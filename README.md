@@ -95,9 +95,6 @@ Higher scores indicate stronger overall hardware specifications.
 
 ### Price-to-Specs Ratio
 
-Formula:<img width="633" height="405" alt="Price Inflattion avg" src="https://github.com/user-attachments/assets/5abbf740-000f-46e9-a032-758364a8b834" />
-
-
 Price ÷ Specs Score
 
 Lower values indicate better value-for-money.
