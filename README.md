@@ -15,18 +15,6 @@ Analyze smartphone value-for-money across 930 smartphone models released between
 - Feature Engineering
 - Statistical Analysis
 
-### Skills Demonstrated
-
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
-- Feature Engineering
-- KPI Development
-- Dashboard Development
-- Business Intelligence
-- Data Storytelling
-
----
-
 ## Project Overview
 
 This project analyzes smartphone value-for-money by comparing hardware specifications against launch prices across 930 smartphone models released between 2014 and 2025.
